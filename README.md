@@ -17,11 +17,6 @@ It trained a model that can accurately recognize and classify human emotions, ac
 And Innovated to analyze and recognize human emotions in real-time using a webcam.
 EmoLearn aims to interpret and categorize emotions into seven distinct categories, including happy, sad, anger, fear, disgust, surprise, and neutral.
 
-Click here to try the app: 
-   
-[![Open in Streamlit]()
-
-
 ## Steps taken in this project <a name="project-steps"></a>
 - Planning
 - Data Collection and Preparation
